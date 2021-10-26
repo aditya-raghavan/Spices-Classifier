@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Spicify</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at placerat elit. Vestibulum placerat nisi ipsum, non mollis massa ullamcorper in. Nunc et diam eleifend, fermentum magna pellentesque, feugiat nisl. orem ipsum dolor sit amet, consectetur adipiscing elit. Integer at placerat elit.</string>
+    <string name="howto">1. Click a picture of a spice.<br />2. Image is processed and fed to the ML model.<br />3. Spice class is predicted.</string>
+</resources>
